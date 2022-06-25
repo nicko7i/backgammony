@@ -52,7 +52,7 @@ GnubgEvalContext[] gnubgDefaultEvalContexts = [
     { "Expert",         true, 0, false, true, 0.0f },
     { "World Class",    true, 2, true,  true, 0.0f },
     { "Supremo",        true, 2, true,  true, 0.0f },
-    { "Gandmaster",     true, 3, true,  true, 0.0f },
+    { "Grandmaster",    true, 3, true,  true, 0.0f },
     { "4-ply",          true, 4, true,  true, 0.0f },
 ];
 
